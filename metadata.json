@@ -1,0 +1,5 @@
+{
+  "name": "TradePulse Analytics",
+  "description": "A trading analytics dashboard that imports data from trading platforms to provide performance metrics, statistics, and visualizations.",
+  "requestFramePermissions": []
+}
